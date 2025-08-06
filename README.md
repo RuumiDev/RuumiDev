@@ -15,8 +15,8 @@ Right now, I’m mostly messing around with:
 ## 🛠 Projects I’m playing with
 
 - **Arisu** → A helpful (and slightly chaotic) WhatsApp bot with rent tracking, study tools, and anime reactions  
-- **Mikira** → My study buddy bot for an innovation project — comes with notes, quizzes, and cozy vibes  
-- **Laravel Cert Generator** → Building a certificate generator (my first Laravel project~)
+- **Mikira** → A study buddy bot for an innovation project. It comes with notes, quizzes, and cozy vibes  
+- **Laravel Cert Generator** → Building a certificate generator 
 
 ---
 
