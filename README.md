@@ -2,7 +2,7 @@
 # 🚀 Hello, I’m Hirumi !
 
 Just a student from Malaysia who enjoys learning how to code for fun!  
-I’m not a pro or anything, just someone who finds programming kinda cool 💻
+
 
 Right now, I’m mostly messing around with:
 - 🐍 Python (for Discord + WhatsApp bots)
