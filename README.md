@@ -1,7 +1,7 @@
 
 # 🚀 Hello, I’m Hirumi !
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3080&pause=12&multiline=true&width=549&height=60&lines=Just+a+student+from+Malaysia;+who+enjoys+learning+how+to+code+for+fun!++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1080&pause=20&multiline=true&width=569&height=60&lines=Just+a+student+from+Malaysia+who+enjoys+learning+how+to+code+for+fun!++;+)](https://git.io/typing-svg)
 
 ---
 
