@@ -1,8 +1,11 @@
 
 # 🚀 Hello, I’m Hirumi !
 
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3080&pause=12&center=true&vCenter=true&multiline=true&width=549&height=60&lines=Just+a+student+from+Malaysia;+who+enjoys+learning+how+to+code+for+fun!++)](https://git.io/typing-svg)
 
+---
 
 Right now, I’m mostly messing around with:
 - 🐍 Python (for Discord + WhatsApp bots)
