@@ -33,7 +33,7 @@ Right now, I’m mostly messing around with:
 
 You can find me here:
 - 🗨 Discord: `amenohitori_`
-- 🧑‍💻 GitHub: You're already here, hehe!
+- 🧑‍💻 GitHub: You're already here, eheh!
 - 💤 Usually online late at night tinkering with bots
 
 ---
