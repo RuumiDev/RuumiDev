@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=3500&pause=1000&color=7FD6ED&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Hirumi+%28RuumiDev%29;Minimal+code%2C+maximal+fun+%F0%9F%8C%8A;Always+learning%2C+always+curious." alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E5a3FhcTQ2bmR2a3BvY2Z6cnQ2YjZoYmR6a2JpZW5jY2h4d3R3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ln7z2eWriiQAllfVcn/giphy.gif" height="100" alt="anime minimalist wave" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXB0Mm9sNjg5ZWJhdmQyZWE0am43YTQ4cDIybDYxcDZ1anFqdzgxdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/To1m6F9M8fLcEhul6H/giphy.gif" height="400" width="400" alt="Gif" />
 </p>
 
 ---
@@ -39,8 +39,9 @@
 
 - [**Arisu**](https://github.com/RuumiDev/arisu-bot): WhatsApp bot for rent tracking, anime reactions & more  
 - [**Mikira**](https://github.com/RuumiDev/Mikira-Bot): Study buddy bot with notes and quizzes  
-- [**Laravel Cert Generator**](https://github.com/RuumiDev/AkaProject): Simple cert automation for events  
+- [**Laravel Cert Generator**](https://github.com/RuumiDev/): Simple cert automation for events  
 - [**perfect_imperfect.cpp**](https://github.com/RuumiDev/perfect_imperfect.cpp): C++ curiosities and experiments
+- [**Lyrics.cpp**](https://github.com/RuumiDev/lyrics.cpp): C++ Experimental Study
 
 ---
 
