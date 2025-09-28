@@ -1,41 +1,80 @@
 
-# 🚀 Hello, I’m Hirumi !
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3080&pause=1000&color=15F7DE&width=1269&lines=Just+a+student+from+Malaysia+who+enjoys+learning+how+to+code+for+fun!++)](https://git.io/typing-svg)
-
-Right now, I’m mostly messing around with:
-- 🐍 Python (for Discord + WhatsApp bots)
-- 💻 C++ (college stuff + competitions)
-- 🌐 MySQL / PHP / Laravel (still new, but learning!)
-- 🎮 A bit of JS, HTML & CSS when I feel brave
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=3500&pause=1000&color=7FD6ED&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Hirumi+%28RuumiDev%29;Minimal+code%2C+maximal+fun+%F0%9F%8C%8A;Always+learning%2C+always+curious." alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E5a3FhcTQ2bmR2a3BvY2Z6cnQ2YjZoYmR6a2JpZW5jY2h4d3R3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ln7z2eWriiQAllfVcn/giphy.gif" height="100" alt="anime minimalist wave" />
+</p>
 
 ---
 
-## 🛠 Projects I’m playing with
+## 🥢 About Me
 
-- **Arisu** → A helpful (and slightly chaotic) WhatsApp bot with rent tracking, study tools, and anime reactions  
-- **Mikira** → A study buddy bot for an innovation project. It comes with notes, quizzes, and cozy vibes  
-- **Laravel Cert Generator** → Building a certificate generator 
-
----
-
-## 🌱 Learning Goals
-
-- Write cleaner code and stop breaking everything accidentally 😭
-- Understand backend stuff a bit better
-- Make useful things that help my friends and housemates
-- Keep learning without burning out ♡
+- Malaysian student, self-taught coder, and late-night tinkerer.
+- Found joy in debugging at 2AM and the thrill of a green checkmark after hours of "Why isn't this working?!"
+- Bots, web backends, and quirky side-projects are my happy place.
+- Anime, tech podcasts, and coffee power my code sprints.
+- Motto: *"Keep it simple, keep it fun."*
 
 ---
 
-## 📫 Let’s talk?
+## 🛠️ Tech I Enjoy
 
-You can find me here:
-- 🗨 Discord: `amenohitori_`
-- 🧑‍💻 GitHub: You're already here, eheh!
-- 💤 Usually online late at night tinkering with bots
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-7FD6ED?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-A6DCEF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-7FD6ED?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-A6DCEF?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FFB6C1?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-7FD6ED?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-A6DCEF?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-7FD6ED?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ---
 
-> 🟢 *“Not perfect, but trying my best”*
+## 🌀 Projects
+
+- [**Arisu**](https://github.com/RuumiDev/arisu-bot): WhatsApp bot for rent tracking, anime reactions & more  
+- [**Mikira**](https://github.com/RuumiDev/Mikira-Bot): Study buddy bot with notes and quizzes  
+- [**Laravel Cert Generator**](https://github.com/RuumiDev/AkaProject): Simple cert automation for events  
+- [**perfect_imperfect.cpp**](https://github.com/RuumiDev/perfect_imperfect.cpp): C++ curiosities and experiments
+
+---
+
+## 🌱 Right Now
+
+- Mastering backend & full-stack wizardry  
+- Breaking things, learning, and breaking less (hopefully)  
+- Building things that make my friends’ lives easier  
+- Making sure coding stays fun, not just productive
+
+---
+
+## 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuumiDev&show_icons=true&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=RuumiDev&theme=tokyonight&hide_border=true" height="140"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://discord.com/users/amenohitori_" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/amenohitori_%23-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <span> • </span>
+  <a href="https://github.com/RuumiDev" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<p align="center"><i>Let’s chat code, bots, or anime anytime.</i></p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=600&size=20&pause=1000&color=A6DCEF&width=500&lines=Not+perfect%2C+but+always+leveling+up.+%F0%9F%8E%93" alt="Motivation Typing" />
+</p>
