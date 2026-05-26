@@ -15,7 +15,7 @@ ruumidev@github:~$ ./welcome.sh
 
 <table border="0">
 <tr>
-<td width="35%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <img src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/Waifu/yuki.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" />
 <br>
 <p align="center">
