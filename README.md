@@ -16,7 +16,7 @@ ruumidev@github:~$ ./welcome.sh
 <table border="0">
 <tr>
 <td width="35%" valign="middle" align="center">
-<img src="https://tenor.com/view/suou-yuki-roshidere-sister-suou-yuki-gif-5671034940910266841" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" />
+<img src="https://tenor.com/gU5yYvLy0s9.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" />
 <br>
 <p align="center">
 <img alt="#91bebb" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/91bebb.png" width="25" height="20" /><img alt="#dfe6ec" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/dfe6ec.png" width="25" height="20" /><img alt="#e2c9bf" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/e2c9bf.png" width="25" height="20" /><img alt="#df98a2" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/df98a2.png" width="25" height="20" /><img alt="#463739" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/463739.png" width="25" height="20" />
