@@ -22,7 +22,7 @@ ruumidev@github:~$ ./welcome.sh
 <img alt="#91bebb" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/91bebb.png" width="25" height="20" /><img alt="#dfe6ec" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/dfe6ec.png" width="25" height="20" /><img alt="#e2c9bf" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/e2c9bf.png" width="25" height="20" /><img alt="#df98a2" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/df98a2.png" width="25" height="20" /><img alt="#463739" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/463739.png" width="25" height="20" />
 </p>
 </td>
-<td width="65%" valign="middle">
+<td width="75%" valign="middle">
 
 ```
 ruumidev@github
