@@ -84,14 +84,14 @@ ruumidev@github:~$ ./get_live_stats.sh --target=RuumiDev
 ## Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,postgres,mysql,prisma,firebase" />
+    <img src="https://skillicons.dev/icons?i=python,php,postgres,mysql,prisma,firebase,discordjs,docker,kotlin,nodejs," />
   </a>
 </p>
 
 ## <p align="left">Tools</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,cpp,androidstudio" />
   </a>
 </p>
 
