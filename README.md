@@ -27,7 +27,9 @@ ruumidev@github:~$ ./welcome.sh
 ```
 ruumidev@github
 -------------------------
-💻 Role: Full-Stack Web Developer & Founder @ MiraiWorks
+🦊 Role: Full-Stack Web Developer & Founder @ MiraiWorks
+💻 Identity: Ahmad Akmal Abdullah (RuumiDev)
+🌐 Portfolio: https://ahmadakmal.dev
 🔎 Interests: AI Integration, Bot Architecture, & Scalable Backends
 🌱 Core_Stack: [Next.js, TypeScript, Python, PostgreSQL, Prisma, Firebase]
 🏴‍☠️ Architecting: Mikira AI, Project Nero, Project Airi 🤖
