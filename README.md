@@ -32,11 +32,10 @@ ruumidev@github
 🌐 Portfolio: https://ahmadakmal.dev
 🔎 Interests: AI Integration, Bot Architecture, & Scalable Backends
 🌱 Core_Stack: [Next.js, TypeScript, Python, PostgreSQL, Prisma, Firebase]
-🏴‍☠️ Architecting: Mikira AI, Project Nero, Project Airi 🤖
+⚡ Debugging Strategy: Staring at the terminal until the bugs get intimidated and leave
 ⚙️ Integrating: OpenAI GPT-4o, OpenCV, MediaPipe, & Tesseract.js
 🎨 UI_UX: Pushing boundaries with Three.js, GSAP, and Anime.js
 🧬 Passionate: Clean structural logic, high-performance code
-⚡ Lifestyle: I live to code from night to sun 💻
 🎯 Current Focus: Scaling enterprise-grade AI architectures & APIs
 🏆 Milestones: 6x National Innovation Awards | MyIPO Copyright Owner
 ```
