@@ -2,7 +2,6 @@
 
 import os
 import random
-import shutil
 import json
 import urllib.request
 from datetime import datetime
@@ -70,7 +69,7 @@ def create_color_image(hex_color, width=25, height=20):
 
     return img_path
 
-def fetch_github_stats(username="TryKatChup"):
+def fetch_github_stats(username="RuumiDev"):
     """Fetch total commits and stars from GitHub API"""
     token = os.environ.get("GITHUB_TOKEN", "")
     headers = {"Accept": "application/vnd.github.v3+json"}
@@ -130,7 +129,7 @@ def update_readme(selected_image, colors):
     for color in colors:
         create_color_image(color)
         hex_clean = color.lstrip('#')
-        color_imgs.append(f'<img alt="{color}" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/{hex_clean}.png" width="25" height="20" />')
+        color_imgs.append(f'<img alt="{color}" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/{hex_clean}.png" width="25" height="20" />')
 
     new_color_line = ''.join(color_imgs)
 
