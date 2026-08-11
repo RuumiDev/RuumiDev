@@ -19,7 +19,7 @@ ruumidev@github:~$ ./welcome.sh
 <img src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/Waifu/yuki.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="260" />
 <br>
 <p align="center">
-<img alt="#c57e7d" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/c57e7d.png" width="25" height="20" /><img alt="#e8d3cf" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/e8d3cf.png" width="25" height="20" /><img alt="#4b3332" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/4b3332.png" width="25" height="20" /><img alt="#895b5b" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/895b5b.png" width="25" height="20" /><img alt="#0d0909" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/0d0909.png" width="25" height="20" />
+<img alt="#eccf4e" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/eccf4e.png" width="25" height="20" /><img alt="#ddc7c5" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/ddc7c5.png" width="25" height="20" /><img alt="#413c41" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/413c41.png" width="25" height="20" /><img alt="#b39890" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/b39890.png" width="25" height="20" /><img alt="#f2eae0" src="https://raw.githubusercontent.com/RuumiDev/RuumiDev/main/img/f2eae0.png" width="25" height="20" />
 </p>
 </td>
 <td width="75%" valign="middle">
